@@ -1,5 +1,4 @@
 # Bank-data-Spark-ML
-Classification model to predict wheather to approve loan or not.
 
 A bank wants to leverage machine learning techniques to improve its data analysis capabilities and make informed decisions. Specifically, the bank aims to use Spark ML to develop a predictive model that can accurately predict whether a customer will default on their loan payments or not. This model will help the bank assess the creditworthiness of new loan applicants and minimize the risk of default.
 
