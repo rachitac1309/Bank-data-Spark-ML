@@ -49,16 +49,16 @@ These attributes provide information about the customers, their demographics, lo
 
 # ML Spark Model steps involved
 
-Installed Java Development Kit (JDK) and Apache Spark. 
+* Installed Java Development Kit (JDK) and Apache Spark. 
 
-Imported the necessary libraries and set up the Spark session.
+* Imported the necessary libraries and set up the Spark session.
 
-Loaded the dataset into a Spark DataFrame.
+* Loaded the dataset into a Spark DataFrame.
 
-Explored the data by checking the schema, printing sample rows, and calculating descriptive statistics.
+* Explored the data by checking the schema, printing sample rows, and calculating descriptive statistics.
 
-Performed data cleaning and transformation tasks, such as dropping unnecessary columns, replacing negative balances with zeros, and handling missing values.Conducted EDA by analyzing the distribution of the target variable and creating visualizations for different categorical variables.Created a correlation heatmap to understand the relationships between numerical features.
+* Performed data cleaning and transformation tasks, such as dropping unnecessary columns, replacing negative balances with zeros, and handling missing values.Conducted EDA by analyzing the distribution of the target variable and creating visualizations for different categorical variables.Created a correlation heatmap to understand the relationships between numerical features.
 
-Split the data into training and testing sets.Built a pipeline for data preprocessing, including vector assembling, feature scaling, string indexing, one-hot encoding, and label indexing.Configured a logistic regression model and included it in the pipeline. Trained the pipeline on the training data.
+* Split the data into training and testing sets.Built a pipeline for data preprocessing, including vector assembling, feature scaling, string indexing, one-hot encoding, and label indexing.Configured a logistic regression model and included it in the pipeline. Trained the pipeline on the training data.
 
-Evaluated the model's performance by calculating accuracy and error rates on both the training and testing datasets.Calculated additional evaluation metrics, such as precision, recall, and F1 score. Analyzed the true positives, true negatives, false positives, and false negatives for both the training and testing datasets.
+* Evaluated the model's performance by calculating accuracy and error rates on both the training and testing datasets.Calculated additional evaluation metrics, such as precision, recall, and F1 score. Analyzed the true positives, true negatives, false positives, and false negatives for both the training and testing datasets.
